@@ -1,0 +1,21 @@
+{
+  "name": "hermetal-san-luis",
+  "version": "1.0.0",
+  "description": "Landing page oficial de Hermetal (Bulonera Roca) - Fabricantes de estufas a leña, hornos y metalúrgica en San Luis, Argentina",
+  "main": "index.html",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": [
+    "hermetal",
+    "bulonera-roca",
+    "san-luis",
+    "estufas-leña",
+    "hornos-leña",
+    "calefaccion",
+    "metalurgica"
+  ],
+  "author": "Hermetal - Bulonera Roca",
+  "license": "ISC"
+}
